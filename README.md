@@ -4,7 +4,7 @@ A beginner-friendly mini-project to help absolute newcomers feel confident with 
 This repository is my very first Python learning journey – created as I’m teaching myself (and hopefully helping others) understand the basics step by step.
 
 What’s inside
-learn_python_basics.ipynb – A clean, fully-commented Jupyter notebook that gently introduces:
+learn_python_with_me.ipynb – A clean, fully-commented Jupyter notebook that gently introduces:
 Integers & basic math
 Floats (decimal numbers)
 Lists
